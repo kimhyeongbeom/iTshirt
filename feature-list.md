@@ -5,3 +5,4 @@
 4. 디테일 페이지 보여주기
 5. 댓글기능추가
 6. dev 01 feature, cart, cherry 수정
+7. dev 02 feature, cherry, comment 수정
